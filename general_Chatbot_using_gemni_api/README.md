@@ -42,6 +42,7 @@ The AI model behind this chatbot is **Gemini-1.5 Flash**, provided by **Google G
 - A valid **Google API key** for accessing the Generative AI (Gemini) API.
 - Python 3.x installed on your system.
 - Required Python libraries: `streamlit`, `google-generativeai`.
+- Create venv first and install the requirements in the requirements.txt file
 
 ### Installation:
 1. **Clone the Repository**:
