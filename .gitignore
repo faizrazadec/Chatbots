@@ -1,0 +1,4 @@
+# To Untrack the virtual environments
+**/.venv/
+# To Untrack the Environment Variables
+**/.env
