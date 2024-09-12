@@ -1,0 +1,8 @@
+# Ignore virtual environment folders
+.venv/
+
+# Ignore node_modules (for Node.js apps)
+node_modules/
+
+# Ignore logs
+*.log

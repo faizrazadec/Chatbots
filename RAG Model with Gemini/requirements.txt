@@ -1,0 +1,10 @@
+streamlit
+langchain-community
+langchain
+langchain-google-genai
+langchain-chroma
+chromadb
+python-dotenv
+PyPDF2
+tiktoken
+requests
